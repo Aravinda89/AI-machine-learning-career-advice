@@ -15,3 +15,9 @@ To help beginners navigate this field, I have compiled a series of career advice
 
 ### Deep Learning: Advice on Getting Started with fast.ai - Jeremy Howard
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4CTDdxfSXF0/0.jpg)](https://youtu.be/4CTDdxfSXF0)
+
+### Geoff Hinton on Career Advice
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oCE3QLmize4/0.jpg)](https://youtu.be/oCE3QLmize4)
+
+###  deeplearning.ai's Heroes of Deep Learning: Ian Goodfellow 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dqwx-F7Eits/0.jpg)](https://youtu.be/dqwx-F7Eits)

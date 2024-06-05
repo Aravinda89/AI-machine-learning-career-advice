@@ -12,3 +12,6 @@ To help beginners navigate this field, I have compiled a series of career advice
 
 ### What advice do you have for getting started in AI & Machine Learning? - Fei-Fei Li & Andrew Ng
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cxJi15eXWJU/0.jpg)](https://youtu.be/cxJi15eXWJU)
+
+### Deep Learning: Advice on Getting Started with fast.ai - Jeremy Howard
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4CTDdxfSXF0/0.jpg)](https://youtu.be/4CTDdxfSXF0)

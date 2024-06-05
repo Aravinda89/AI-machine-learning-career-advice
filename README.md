@@ -34,10 +34,5 @@ To help beginners navigate this field, I have compiled a series of career advice
 ###  How to learn programming | George Hotz
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NjYICpXJ03M/0.jpg)](https://youtu.be/NjYICpXJ03M)
 
-###  8 Mistakes Holding Your Career Back | Machine Learning
-## François Chollet
-## Soumith Chintala
-## Laurence Moroney
--## Bojan Tunguz
-## Sebastian Raschka
+###  8 Mistakes Holding Your Career Back | François Chollet | Soumith Chintala | Laurence Moroney | Bojan Tunguz |  Sebastian Raschka
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yrtAoBr3iuQ/0.jpg)](https://youtu.be/yrtAoBr3iuQ)

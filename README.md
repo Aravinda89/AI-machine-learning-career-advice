@@ -39,3 +39,8 @@ To help beginners navigate this field, I have compiled a series of career advice
 
 ###  How do I start my career in Data Science? | Abhishek Thakur
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BFFM1JRo14E/0.jpg)](https://youtu.be/BFFM1JRo14E)
+
+## References
+
+## How to Build Your Career in AI - Andrew Ng ebook
+https://info.deeplearning.ai/how-to-build-a-career-in-ai-book

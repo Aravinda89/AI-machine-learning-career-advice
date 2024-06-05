@@ -11,7 +11,7 @@ To help beginners navigate this field, I have compiled a series of career advice
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1k37OcjH7BM/0.jpg)](https://youtu.be/1k37OcjH7BM)
 
 ### What advice do you have for getting started in AI & Machine Learning? - Fei-Fei Li & Andrew Ng
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cxJi15eXWJU/100.jpg)](https://youtu.be/cxJi15eXWJU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cxJi15eXWJU/0.jpg)](https://youtu.be/cxJi15eXWJU)
 
 ### Deep Learning: Advice on Getting Started with fast.ai - Jeremy Howard
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4CTDdxfSXF0/0.jpg)](https://youtu.be/4CTDdxfSXF0)
@@ -20,4 +20,4 @@ To help beginners navigate this field, I have compiled a series of career advice
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oCE3QLmize4/0.jpg)](https://youtu.be/oCE3QLmize4)
 
 ###  deeplearning.ai's Heroes of Deep Learning: Ian Goodfellow 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dqwx-F7Eits/100.jpg)](https://youtu.be/dqwx-F7Eits)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dqwx-F7Eits/0.jpg)](https://youtu.be/dqwx-F7Eits)

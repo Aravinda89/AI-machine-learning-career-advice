@@ -5,4 +5,4 @@ Artificial Intelligence (AI) is becoming increasingly popular, leading to the fr
 To help beginners navigate this field, I have compiled a series of career advice from respected experts in AI, with extensive experience in both academia and industry. I hope that the insights from these experts will provide valuable guidance and illuminate your path in the AI and Machine Learning domain.
 
 ### Andrew Ng on Starting a Career in AI
-[https://www.youtube.com/watch?v=uLL6RZhoj3o](url)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)

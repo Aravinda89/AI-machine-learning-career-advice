@@ -24,3 +24,20 @@ To help beginners navigate this field, I have compiled a series of career advice
 
 ###  Advice for PhD students and AI researchers | Yann LeCun 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aJalIyXbWtE/0.jpg)](https://youtu.be/aJalIyXbWtE)
+
+###  Advice for machine learning beginners | Andrej Karpathy
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/I2ZK3ngNvvI/0.jpg)](https://youtu.be/I2ZK3ngNvvI)
+
+###  How developers can get started with AI and ML | Laurence Moroney
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3K1414RwNDU/0.jpg)](https://youtu.be/3K1414RwNDU)
+
+###  How to learn programming | George Hotz
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NjYICpXJ03M/0.jpg)](https://youtu.be/NjYICpXJ03M)
+
+###  8 Mistakes Holding Your Career Back | Machine Learning
+## François Chollet
+## Soumith Chintala
+## Laurence Moroney
+-## Bojan Tunguz
+## Sebastian Raschka
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yrtAoBr3iuQ/0.jpg)](https://youtu.be/yrtAoBr3iuQ)

@@ -9,3 +9,6 @@ To help beginners navigate this field, I have compiled a series of career advice
 
  ### Andrew Ng: Advice on Getting Started in Deep Learning 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1k37OcjH7BM/0.jpg)](https://youtu.be/1k37OcjH7BM)
+
+### What advice do you have for getting started in AI & Machine Learning? - Fei-Fei Li & Andrew Ng
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cxJi15eXWJU/0.jpg)](https://youtu.be/cxJi15eXWJU)

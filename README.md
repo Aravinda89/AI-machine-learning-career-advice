@@ -7,5 +7,5 @@ To help beginners navigate this field, I have compiled a series of career advice
  ### Why and how to start a Machine Learning career | Andrew Ng 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uLL6RZhoj3o/0.jpg)](https://youtu.be/uLL6RZhoj3o)
 
- ### Why and how to start a Machine Learning career | Andrew Ng 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5xp0taGM3Kg/0.jpg)](https://youtu.be/5xp0taGM3Kg)
+ ### Andrew Ng: Advice on Getting Started in Deep Learning 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1k37OcjH7BM/0.jpg)](https://youtu.be/1k37OcjH7BM)

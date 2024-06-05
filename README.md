@@ -37,5 +37,5 @@ To help beginners navigate this field, I have compiled a series of career advice
 ###  8 Mistakes Holding Your Career Back | François Chollet | Soumith Chintala | Laurence Moroney | Bojan Tunguz |  Sebastian Raschka
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yrtAoBr3iuQ/0.jpg)](https://youtu.be/yrtAoBr3iuQ)
 
-### Elon Musk: Advice  
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M-ZH3psUbfU/0.jpg)](https://youtu.be/M-ZH3psUbfU)
+###  How do I start my career in Data Science? | Abhishek Thakur
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BFFM1JRo14E/0.jpg)](https://youtu.be/BFFM1JRo14E)
